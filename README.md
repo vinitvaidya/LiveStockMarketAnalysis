@@ -1,4 +1,4 @@
-Live Stock Market Data fed into dashboard on daily basis (Only needs to be refreshed).
+Live Stock Market Data fed into Power BI dashboard on daily basis (Only needs to be refreshed).
 
 Datasets used:
 1)  Company Quote Data: https://financialmodelingprep.com/api/v3/quote/AAPL?apikey=YOUR_API_KEY
